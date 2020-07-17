@@ -4,7 +4,7 @@ Filename: ankiquiz.py
 7-11-20
 
 TODO: Switch to frames?
-Haven't done multi-file or header/cpp style coding for a while. I intend to do that but not arbitrarily
+Haven't done multi-file or header/cpp style coding for a while. I intend to do that but not arbitrarily. I may have to restructure this a few times.
 '''
 
 from tkinter import * #GUI
